@@ -3,19 +3,20 @@
 [github.com/codeinabox](https://github.com/codeinabox)
 
 ## Profile
-Highly motivated, end-to-end web developer with 10 years experience in both front-end and back-end development. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly, driven to do challenging work and passionate about technology outside of working hours, with a history of hack day attendance and contributing to Stack Overflow, GitHub and the CakePHP Bakery.
+Highly motivated, full-stack developer with 10 years experience in both front-end and back-end development. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly, driven to do challenging work and passionate about technology outside of working hours, with a history of hack day attendance and contributing to Stack Overflow, GitHub and the CakePHP Bakery.
 
 ## Technical Skills
  * Bespoke PHP development using frameworks (Zend, BBC Forge, Silex, Symfony, CodeIgniter, Kohana, and CakePHP), and libraries (Twig, Doctrine, and Guzzle)
  * JavasScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
  * Test driven PHP development (TDD)  using PHPUnit and Hudson for continuous integration
  * Client side and TDD and BDD using Jasmine
- * Data modelling using SQL and schema-less databases including MongoDB and Atom store
+ * Using build tools such as Grunt, Less or Sass to manage front-end workflows
+ * Data modelling in both relational ie SQL and schema-less databases including MongoDB and Atom store
  * Document indexing and search using Apache Solr
  * Caching strategies using memcache for server side caching, and HTTP headers for output caching
  * Automated provisioning of development environments using Vagrant and Ansible
- * Facebook development using Graph API, FQL, and canvas
- * Flash development with ActionScript, including Brightcove video player platform and API
+ * Deploying production applications to Amazon EC2 and platform based services including Heroku
+ * Social media APIs including Instagram, Foursquare and Facebook's Graph API, FQL, and canvas
  * Standards compliant front end development, including WCAG 1.0 AA and WAI-ARIA
  * Source control using Git, Bitbucket, Subversion and CVS
 
