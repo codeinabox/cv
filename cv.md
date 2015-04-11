@@ -30,6 +30,20 @@ Highly motivated, full-stack developer with 10 years experience in both front-en
  * Authoring semantic and standards compliant HTML and CSS
 
 ### Recent Professional History
+#### Freelance Node and Angular developer @ Quincus
+_April 2015_
+
+Helped out on this MEAN.JS based project, adding new functionality to the Node server and the Angular client. Implemented a reproducible development environment using Vagrant, and deploy workflow using Ansible.
+
+Stack: Node, Express, MongoDB, Angular, Grunt, Vagrant, Ansible, Karma, Mocha
+
+#### Freelance Symfony and JavaScript developer @ I Might Do
+_March 2015_
+
+Created bespoke website with a CMS built upon Symfony's Sonata bundles. The front end was written with performance in mind, all JavaScript was vanilla weighing in at only 1kb and only served to modern browsers using the "cut the mustard" technique.
+
+Stack: Symfony, Sonata, Mustache, Zurb Foundation, Node, Heroku, Gulp
+
 #### Freelance JavaScript developer @ Applied Works
 _September 2014 – December 2014_
 
