@@ -10,7 +10,7 @@ Highly motivated, full-stack developer with 10 years experience in both front-en
  * JavasScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
  * Test driven PHP development (TDD)  using PHPUnit and Hudson for continuous integration
  * Client side and TDD and BDD using Jasmine
- * Using build tools such as Grunt, Less or Sass to manage front-end workflows
+ * Using build tools including Gulp, Grunt, Less or Sass to manage front-end workflows
  * Data modelling in both relational ie SQL and schema-less databases including MongoDB and Atom store
  * Document indexing and search using Apache Solr
  * Caching strategies using memcache for server side caching, and HTTP headers for output caching
