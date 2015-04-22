@@ -33,9 +33,9 @@ Highly motivated, full-stack developer with 10 years experience in both front-en
 #### Freelance Node and Angular developer @ Quincus
 _April 2015_
 
-Helped out on this MEAN.JS based project, adding new functionality to the Node server and the Angular client. Implemented a reproducible development environment using Vagrant, and deploy workflow using Ansible.
+Helped out on this MEAN.JS based project, adding a feature flag system and new functionality to the Node server and the Angular client. Implemented a reproducible development environment using Vagrant, and deploy workflow using Ansible.
 
-Stack: Node, Express, MongoDB, Angular, Grunt, Vagrant, Ansible, Karma, Mocha
+Stack: Nginx, Node, Express, MongoDB, Angular, Grunt, Vagrant, Ansible, Karma, Mocha
 
 #### Freelance Symfony and JavaScript developer @ I Might Do
 _March 2015_
