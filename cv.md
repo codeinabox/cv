@@ -9,7 +9,7 @@ Highly motivated, full-stack developer with 10 years experience in both front-en
  * Bespoke PHP development using frameworks (Zend, BBC Forge, Silex, Symfony, CodeIgniter, Kohana, and CakePHP), and libraries (Twig, Doctrine, and Guzzle)
  * JavasScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
  * Test driven PHP development (TDD)  using PHPUnit and Hudson for continuous integration
- * Client side and TDD and BDD using Jasmine
+ * Client side and TDD and BDD using Jasmine, Should, Mocha and Supertest
  * Using build tools including Gulp, Grunt, Less or Sass to manage front-end workflows
  * Data modelling in both relational ie SQL and schema-less databases including MongoDB and Atom store
  * Document indexing and search using Apache Solr
@@ -35,7 +35,7 @@ _April 2015_
 
 Helped out on this MEAN.JS based project, adding a feature flag system and new functionality to the Node server and the Angular client. Implemented a reproducible development environment using Vagrant, and deploy workflow using Ansible.
 
-Stack: Nginx, Node, Express, MongoDB, Angular, Grunt, Vagrant, Ansible, Karma, Mocha
+Stack: Nginx, Node, Express, MongoDB, Angular, Grunt, Vagrant, Ansible, Karma, Mocha, Supertest, Should
 
 #### Freelance Symfony and JavaScript developer @ I Might Do
 _March 2015_
