@@ -7,7 +7,7 @@ Highly motivated and passionate senior full-stack developer. University educated
 
 ## Technical Skills
  * Bespoke PHP development using frameworks (Zend, BBC Forge, Silex, Symfony, CodeIgniter, Kohana, and CakePHP), and libraries (Twig, Doctrine, and Guzzle)
- * JavasScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
+ * JavaScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
  * Test driven PHP development (TDD)  using PHPUnit and Hudson for continuous integration
  * Client side and TDD and BDD using Jasmine, Should, Mocha and Supertest
  * Using build tools including Gulp, Grunt, Less or Sass to manage front-end workflows
@@ -58,7 +58,7 @@ Bespoke e-commerce site for sportswear brand, KJUS, built using [Akeneo](http://
 
 Stack: Akeneo, Oro, Twig, Doctrine, Symfony, Behat, PHPUnit, PHPSpec
 
-#### Senior PHP and Javascript developer @ BBC News
+#### Senior PHP and JavaScript developer @ BBC News
 _October 2013 – April 2014_
 
 Senior developer on the BBC News responsive team, responsible for pairing with junior developers, reviewing pull requests and developing new page components. Helped standardise the code base by adding for Mustache templating, upgraded to Pimple 2 and changed the logging to be PSR-3 compliant. Also involved in developing the news stream for the 2014 local elections.
@@ -68,18 +68,18 @@ Stack: BBC Forge PAL, Zend, Sinon, Grunt, Cucumber, PhantomJs, Phake, Pimple, Mu
 #### Senior PHP developer and deployment engineer @ Space 66 Ltd, London
 _August 2013 – October 2013_
 
-Developed RESTful endpoint for a single page JavasScript game, implemented a Vagrant based reproducible development environment and managed provisioning and deployments using Ansible. Extensive load tests were conducted using Loader.io, and static assets were deployed over CND using CloudFront.
+Developed RESTful endpoint for a single page JavaScript game, implemented a Vagrant based reproducible development environment and managed provisioning and deployments using Ansible. Extensive load tests were conducted using Loader.io, and static assets were deployed over CND using CloudFront.
 
 Stack: Silex, Grunt, Varnish, Ansible, CloudFront, EC2, Vagrant
 
-#### Senior PHP and Javascript developer @ Picture Ltd, London
+#### Senior PHP and JavaScript developer @ Picture Ltd, London
 _April 2013 – August 2013_
 
 Undertook the responsive rebuild of [BBC Academy](http://www.bbc.co.uk/academy) a BBC Forge project with an Atom data store. Also involved in the responsive makeover of the BBC events system which it it used for [BBC Glastonbury 2013](http://www.bbc.co.uk/glastonbury).
 
 Stack: BBC Forge PAL, Zend, Pimple, Zepto, Hammer.js
 
-#### Senior PHP and Javascript developer @ Telappliant, London
+#### Senior PHP and JavaScript developer @ Telappliant, London
 _December 2012 – February 2013_
 
 Developed bespoke application consisting of a REST server using the Zend framework 2, and JavaScript client using the MVC framework Agility.js, Flatiron Director for routing, Twitter Bootstrap components and styling, RequireJs and Jasmine for BDD and unit tests.
