@@ -30,6 +30,13 @@ Highly motivated and passionate senior full-stack developer. University educated
  * Authoring semantic and standards compliant HTML and CSS
 
 ### Recent Professional History
+#### Freelance senior software engineer @ Sainsbury's
+_May 2015 - current_
+
+Building RESTful micro-services in PHP and Go, employing domain driven approach to clearly define service boundaries and establish a ubiquitous domain language. Ansible is used to provision and deploy the services to AWS.
+
+Stack: Nginx, Vagrant, Ansible, Go, PHP, Symfony, Doctrine, Behat
+
 #### Freelance Node and Angular developer @ Quincus
 _April 2015_
 
