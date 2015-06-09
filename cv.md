@@ -3,7 +3,7 @@
 [github.com/codeinabox](https://github.com/codeinabox)
 
 ## Profile
-Highly motivated, full-stack developer with 10 years experience in both front-end and back-end development. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly, driven to do challenging work and passionate about technology outside of working hours, with a history of hack day attendance and contributing to Stack Overflow, GitHub and the CakePHP Bakery.
+Highly motivated and passionate senior full-stack developer. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly, driven to do challenging work and passionate about technology outside of working hours, with a history of hack day attendance, volunteering at Code Club and contributing to Stack Overflow, GitHub and the CakePHP Bakery.
 
 ## Technical Skills
  * Bespoke PHP development using frameworks (Zend, BBC Forge, Silex, Symfony, CodeIgniter, Kohana, and CakePHP), and libraries (Twig, Doctrine, and Guzzle)
@@ -18,10 +18,10 @@ Highly motivated, full-stack developer with 10 years experience in both front-en
  * Deploying production applications to Amazon EC2 and platform based services including Heroku
  * Social media APIs including Instagram, Foursquare and Facebook's Graph API, FQL, and canvas
  * Standards compliant front end development, including WCAG 1.0 AA and WAI-ARIA
- * Source control using Git, Bitbucket, Subversion and CVS
+ * Source control using Git, Subversion and CVS
 
 ## Key Skills
- * Objected orientated design patterns and model-view-controller (MVC) structured development
+ * Objected orientated design patterns including model-view-controller (MVC) and recently behaviour driven design (DDD)
  * Working with software architects to structure code that is reusable between projects
  * Test driven development and authoring of unit tests
  * Scope analysis and drafting of functional requirements
