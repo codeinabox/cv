@@ -75,7 +75,7 @@ Stack: BBC Forge PAL, Zend, Sinon, Grunt, Cucumber, PhantomJs, Phake, Pimple, Mu
 #### Senior PHP developer and deployment engineer @ Space 66 Ltd, London
 _August 2013 – October 2013_
 
-Developed RESTful endpoint for a single page JavaScript game, implemented a Vagrant based reproducible development environment and managed provisioning and deployments using Ansible. Extensive load tests were conducted using Loader.io, and static assets were deployed over CND using CloudFront.
+Developed RESTful endpoint for a single page JavaScript game, implemented a Vagrant based reproducible development environment and managed provisioning and deployments using Ansible. Extensive load tests were conducted using Loader.io, and static assets were deployed over CDN using CloudFront.
 
 Stack: Silex, Grunt, Varnish, Ansible, CloudFront, EC2, Vagrant
 
