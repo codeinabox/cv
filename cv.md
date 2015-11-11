@@ -163,4 +163,4 @@ Beginners Japanese I (2009)
  * EcoMo09 24-hour dev camp – wrote a basic application in Kohana that using data from the Guardian plotted the proposed sites for the upcoming cycle hire scheme on a Google Map
  * [Participant on Stack Overflow](http://stackoverflow.com/users/187415)
  * Code Club volunteer since late 2014
- * Added [Behat & PHPUnit support to vim-test plugin](https://github.com/janko-m/vim-test)
+ * Contributed pull requests to: [Behat & PHPUnit support to vim-test plugin](https://github.com/janko-m/vim-test), [Unit tests for CtrlP Symfony2 plugin](https://github.com/voronkovich/ctrlp-symfony2.vim/)
