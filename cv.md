@@ -5,6 +5,9 @@
 ## Profile
 Highly motivated and passionate senior full-stack developer. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly, driven to do challenging work and passionate about technology outside of working hours, with a history of hack day attendance, volunteering at Code Club and contributing to Stack Overflow & open source projects.
 
+## Availability
+Please only contact me about contract and freelance roles based in London or allowing remote work. My availability is listed at [codeinabox.com](http://www.codeinabox.com/).
+
 ## Technical Skills
  * Bespoke PHP development using frameworks (Zend, BBC Forge, Silex, Symfony, CodeIgniter, Kohana, and CakePHP), and libraries (Twig, Doctrine, and Guzzle)
  * JavaScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
