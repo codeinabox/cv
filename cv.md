@@ -33,6 +33,11 @@ Please only contact me about contract and freelance roles based in London or all
  * Authoring semantic and standards compliant HTML and CSS
 
 ### Recent Professional History
+
+#### Freelance JavaScript developer @ YS Lab
+_March 2016_
+Assisted sound artists Yuri Suzuki and So Kanno deploy and configure an installation using a Node back-end and Spark / Particle IoT hardware.
+
 #### Freelance senior software engineer @ Sainsbury's
 _May 2015 - current_
 
