@@ -32,41 +32,41 @@ Please only contact me about contract and freelance roles based in London or all
  * A gestalt understanding of the full development pipeline
  * Authoring semantic and standards compliant HTML and CSS
 
-### Recent Professional History
+### Recent Work History (contract)
 
-#### Freelance JavaScript developer @ YS Lab
+#### JavaScript developer @ YS Lab
 _March 2016_
 Assisted sound artists Yuri Suzuki and So Kanno deploy and configure an installation using a Node back-end and Spark / Particle IoT hardware.
 
-#### Freelance senior software engineer @ Sainsbury's
+#### Senior software engineer @ Sainsbury's
 _May 2015 - current_
 
 Building RESTful micro-services in PHP and Go, employing domain driven approach to clearly define service boundaries and establish a ubiquitous domain language. Ansible is used to provision and deploy the services to AWS.
 
 Stack: Nginx, Vagrant, Ansible, Go, PHP, Symfony, Doctrine, Behat
 
-#### Freelance Node and Angular developer @ Quincus
+#### Node and Angular developer @ Quincus
 _April 2015_
 
 Helped out on this MEAN.JS based project, adding a feature flag system and new functionality to the Node server and the Angular client. Implemented a reproducible development environment using Vagrant, and deploy workflow using Ansible.
 
 Stack: Nginx, Node, Express, MongoDB, Angular, Grunt, Vagrant, Ansible, Karma, Mocha, Supertest, Should
 
-#### Freelance Symfony and JavaScript developer @ I Might Do
+#### Symfony and JavaScript developer @ I Might Do
 _March 2015_
 
 Created bespoke website with a CMS built upon Symfony's Sonata bundles. The front end was written with performance in mind, all JavaScript was vanilla weighing in at only 1kb and only served to modern browsers using the "cut the mustard" technique.
 
 Stack: Symfony, Sonata, Mustache, Zurb Foundation, Node, Heroku, Gulp
 
-#### Freelance JavaScript developer @ Applied Works
+#### JavaScript developer @ Applied Works
 _September 2014 – December 2014_
 
 Created reusable components using AngularJS directives, unit tested with Jasmine and integration tested against a Node mock back-end.
 
 Stack: AngularJS, Express, Node, Bootstrap, Jasmine, Grunt, Less
 
-#### Freelance Symfony developer @ Made Tech
+#### Symfony developer @ Made Tech
 _July 2014 – August 2014_
 
 Bespoke e-commerce site for sportswear brand, KJUS, built using [Akeneo](http://www.akeneo.com/) the open source PIM for Symfony. During the course of development we submitted several pull requests to the Akeneo community edition.
