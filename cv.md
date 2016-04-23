@@ -101,59 +101,6 @@ Developed bespoke application consisting of a REST server using the Zend framewo
 
 Stack: Zend 2, Agility.js, Flatiron Director, Bootstrap, Jasmine
 
-#### Lead PHP developer @ SapientNitro, London
-_December 2012_
-
-Developed bespoke YouTube channel application using the Kohana framework.
-
-Stack: Kohana
-
-#### Lead PHP developer @ Dare, London
-_November 2012_
-
-Developed bespoke Facebook canvas and mobile app end-to-end. Silex with Zend components was used for the backend. Client-side was done using the lightweight MVC framework Agility.js and jQuery.
-
-Technologies: Silex, Zend components, MySql, Agility.js, jQuery
-APIs: Facebook
-
-#### Lead PHP developer @ Albion London, London
-_August - October 2012_
-
-Bespoke web app built upon the micro-framework Silex using MongoDB via Doctrine for data storage. The application had to connect to many different services - Foursquare, Instagram, and Facebook – which involved a layered caching strategy.
-
-Stack: Silex, MongoDB, Guzzle
-APIs: Foursquare, Instagram, Facebook
-
-#### Senior PHP developer @ Lean Mean Fighting Machine, London
-_August 2012_
-
-Web app built using Zend framework using Doctrine2 as the ORM and Twig as the view engine. The application integrated with Facebook, making use of its user authentication and Graph API.
-
-Stack: Zend, Doctrine, Twig
-APIs: Facebook
-
-#### Senior PHP developer @ BBC Worldwide, London
-_June 2010 – June 2012_
-
-Developed two content verticals for international only audiences, BBC Travel and BBC Future, using the BBC Forge PAL framework (an extension of Zend), Atom server for storage, Apache Solr for search and a sophisticated server side caching strategy. Solely responsible for refactoring the code written for BBC Travel so it be could be reused for BBC Future. Helped refactor and unit-test the BBC international homepage code.
-
-Stack: BBC Forge PAL, Zend, Atom content store, Apache Solr
-
-#### PHP developer @ BBC FM&T, London
-_November 2009 – March 2010_
-
-Lead PHP developer on the BBC Winter Olympics site built on the BBC's Forge platform. Developed XML and JSON content feeds for the BBC news iPhone application.
-
-Stack: BBC Forge PAL, Zend
-
-#### PHP developer @ Indigo Clothing, London
-_September 2009 – October 2009_
-
-Developed an bespoke e-commerce site using the CakePHP framework using the Paypal and Shirewire APIs. Front end was developed in HTML5 and CSS3
-
-Stack: CakePHP
-APIs: Paypal, Shipwire
-
 ### Education
 #### University of Sydney, Sydney, Australia
 Bachelor of Arts & Science (1997 - 2003)
