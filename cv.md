@@ -101,6 +101,14 @@ Developed bespoke application consisting of a REST server using the Zend framewo
 
 Stack: Zend 2, Agility.js, Flatiron Director, Bootstrap, Jasmine
 
+### Open source contributions and volunteering
+ * Code Club volunteer in late 2014
+ * Volunteered at a youth employment workshop and hackday run by Tessa Cooper, editor of The Start Out & product manager at FutureLearn
+ * Created [Go Go Value Object](https://github.com/codeinabox/go-go-valueobject), a Golang implementation of value objects
+ * Behat, PHPSpec and PHPUnit runner support in [vim-test](https://github.com/janko-m/vim-test)
+ * Initial unit tests for [CtrlP Symfony2](https://github.com/voronkovich/ctrlp-symfony2.vim/)
+ * Improved existing PHP snippets and added PHPSpec support to [vim-snippets](https://github.com/honza/vim-snippets)
+
 ### Education
 #### University of Sydney, Sydney, Australia
 Bachelor of Arts & Science (1997 - 2003)
@@ -110,12 +118,3 @@ Beginners Japanese I (2009)
 #### Japanese Language Proficiency Test (JLPT)
  * Level 5 proficiency (2009)
  * Level 4 proficiency (2012)
-
-### Extracurricular Activities
- * Wrote CakePHP tutorial on [calling controller actions from cron and the command line](http://bakery.cakephp.org/articles/view/calling-controller-actions-from-cron-and-the-command-line)
- * Mashed 2008 – fleshed out a basic CakePHP interface to Lonely Planet's API
- * Last FM Hack Day 2008 – created a web application that analyses your Last FM library and makes recommendations for wiki entries that you could contribute to
- * EcoMo09 24-hour dev camp – wrote a basic application in Kohana that using data from the Guardian plotted the proposed sites for the upcoming cycle hire scheme on a Google Map
- * [Participant on Stack Overflow](http://stackoverflow.com/users/187415)
- * Code Club volunteer since late 2014
- * Contributed pull requests to: [Behat & PHPUnit support to vim-test plugin](https://github.com/janko-m/vim-test), [Unit tests for CtrlP Symfony2 plugin](https://github.com/voronkovich/ctrlp-symfony2.vim/)
