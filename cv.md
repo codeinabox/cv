@@ -105,6 +105,7 @@ Stack: Zend 2, Agility.js, Flatiron Director, Bootstrap, Jasmine
  * Code Club volunteer in late 2014
  * Volunteered at a youth employment workshop and hackday run by Tessa Cooper, editor of The Start Out & product manager at FutureLearn
  * Created [Go Go Value Object](https://github.com/codeinabox/go-go-valueobject), a Golang implementation of value objects
+ * Contributed to the popular [vim-go plugin](https://github.com/fatih/vim-go/)
  * Behat, PHPSpec and PHPUnit runner support in [vim-test](https://github.com/janko-m/vim-test)
  * Initial unit tests for [CtrlP Symfony2](https://github.com/voronkovich/ctrlp-symfony2.vim/)
  * Improved existing PHP snippets and added PHPSpec support to [vim-snippets](https://github.com/honza/vim-snippets)
