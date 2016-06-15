@@ -39,9 +39,9 @@ _March 2016_
 Assisted sound artists Yuri Suzuki and So Kanno deploy and configure an installation using a Node back-end and Spark / Particle IoT hardware.
 
 #### Senior software engineer @ Sainsbury's
-_May 2015 - current_
+_May 2015 - May 2016_
 
-Building RESTful micro-services in PHP and Go, employing domain driven approach to clearly define service boundaries and establish a ubiquitous domain language. Ansible is used to provision and deploy the services to AWS.
+Built RESTful micro-services consumed by the SmartShop app, written in PHP and Go with a domain driven approach to clearly define service boundaries and establish a ubiquitous domain language. Ansible was used to provision and deploy the services to AWS.
 
 Stack: Nginx, Vagrant, Ansible, Go, PHP, Symfony, Doctrine, Behat
 
@@ -105,10 +105,7 @@ Stack: Zend 2, Agility.js, Flatiron Director, Bootstrap, Jasmine
  * Code Club volunteer in late 2014
  * Volunteered at a youth employment workshop and hackday run by Tessa Cooper, editor of The Start Out & product manager at FutureLearn
  * Created [Go Go Value Object](https://github.com/codeinabox/go-go-valueobject), a Golang implementation of value objects
- * Contributed to the popular [vim-go plugin](https://github.com/fatih/vim-go/)
- * Behat, PHPSpec and PHPUnit runner support in [vim-test](https://github.com/janko-m/vim-test)
- * Initial unit tests for [CtrlP Symfony2](https://github.com/voronkovich/ctrlp-symfony2.vim/)
- * Improved existing PHP snippets and added PHPSpec support to [vim-snippets](https://github.com/honza/vim-snippets)
+ * Contributed to several Vim plug-ins: [vim-go](https://github.com/fatih/vim-go/), [vim-test](https://github.com/janko-m/vim-test), [CtrlP Symfony2](https://github.com/voronkovich/ctrlp-symfony2.vim/), [vim-snippets](https://github.com/honza/vim-snippets), [apiblueprint.vim](https://github.com/kylef/apiblueprint.vim)
 
 ### Education
 #### University of Sydney, Sydney, Australia
