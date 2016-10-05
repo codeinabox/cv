@@ -34,8 +34,16 @@ Please only contact me about contract and freelance roles based in London or all
 
 ### Recent Work History (contract)
 
+#### Senior software engineer @ Adaptive Lab
+_May 2016 - October 2016_
+
+Developed new features for a RESTful API consumed by iOS and Android mobile apps. Refactored the legacy code towards a decoupled hexagonal architecture with a well tested domain, added API versioning and setup automated scripts for deployments and ensuring code quality.
+
+Stack: PHP, Symfony, PHPSpec, Ansible, PostgreSQL
+
 #### JavaScript developer @ YS Lab
 _March 2016_
+
 Assisted sound artists Yuri Suzuki and So Kanno deploy and configure an installation using a Node back-end and Spark / Particle IoT hardware.
 
 #### Senior software engineer @ Sainsbury's
