@@ -34,6 +34,12 @@ Please only contact me about contract and freelance roles based in London or all
 
 ### Recent Work History (contract)
 
+#### Full stack engineer @ Data Language
+_November 2016 - current_
+Building state driven user interfaces composed of reusable and mostly stateless functional UI components.
+
+Stack: Node, ES6, React, ImmutableJS, Lodash, Webpack, Enzyme
+
 #### Senior software engineer @ Adaptive Lab
 _May 2016 - October 2016_
 
