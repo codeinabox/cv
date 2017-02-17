@@ -119,7 +119,7 @@ Stack: Zend 2, Agility.js, Flatiron Director, Bootstrap, Jasmine
  * Code Club volunteer in late 2014
  * Volunteered at a youth employment workshop and hackday run by Tessa Cooper, editor of The Start Out & product manager at FutureLearn
  * Created [Go Go Value Object](https://github.com/codeinabox/go-go-valueobject), a Golang implementation of value objects
- * Contributed to several Vim plug-ins: [vim-go](https://github.com/fatih/vim-go/), [vim-test](https://github.com/janko-m/vim-test), [CtrlP Symfony2](https://github.com/voronkovich/ctrlp-symfony2.vim/), [vim-snippets](https://github.com/honza/vim-snippets), [apiblueprint.vim](https://github.com/kylef/apiblueprint.vim)
+ * Contributed to several Vim plug-ins: [vim-go](https://github.com/fatih/vim-go/), [vim-test](https://github.com/janko-m/vim-test), [CtrlP Symfony2](https://github.com/voronkovich/ctrlp-symfony2.vim/), [vim-snippets](https://github.com/honza/vim-snippets), [apiblueprint.vim](https://github.com/kylef/apiblueprint.vim), [Neomake](https://github.com/neomake/neomake)
 
 ### Education
 #### University of Sydney, Sydney, Australia
