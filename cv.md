@@ -34,8 +34,15 @@ Please only contact me about contract and freelance roles based in London or all
 
 ### Recent Work History (contract)
 
+#### Senior software engineer @ Flypay
+_February 2017 - current_
+
+Developed features and refactored the [Flyt platform](https://flyt.io/). The extreme programming practices of pairing and TDD were used to ensure the highest quality code was delivered and knowledge was shared amongst the team.
+
+Stack: PHP, Golang, JavaScript / Node, Jest, Serverless, Lamba, Docker
+
 #### Full stack engineer @ Data Language
-_November 2016 - current_
+_November 2016 - February 2017_
 Building state driven user interfaces composed of reusable and mostly stateless functional UI components.
 
 Stack: Node, ES6, React, ImmutableJS, Lodash, Webpack, Enzyme
