@@ -11,7 +11,7 @@ Please only contact me about contract and freelance roles based in London or all
 ## Technical Skills
  * Bespoke PHP development using frameworks (Zend, BBC Forge, Silex, Symfony, CodeIgniter, Kohana, and CakePHP), and libraries (Twig, Doctrine, and Guzzle)
  * JavaScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
- * Test driven PHP development (TDD)  using PHPUnit and Hudson for continuous integration
+ * Test driven PHP development (TDD) using PHPUnit and Hudson for continuous integration
  * Client side and TDD and BDD using Jasmine, Should, Mocha and Supertest
  * Using build tools including Gulp, Grunt, Less or Sass to manage front-end workflows
  * Data modelling in both relational ie SQL and schema-less databases including MongoDB and Atom store
@@ -34,6 +34,13 @@ Please only contact me about contract and freelance roles based in London or all
 
 ### Recent Work History (contract)
 
+#### Senior software engineer @ Financial Times
+_November 2017 - September 2018_
+
+Developed internal facing dashboard for the subscription sales team and mentored junior developers in the team with white boarding and pair programming sessions
+
+Stack: JavaScript, TypeScript, Heroku, Lambda, Serverless
+
 #### Senior software engineer @ Flypay
 _February 2017 - September 2017_
 
@@ -43,7 +50,7 @@ Stack: PHP, Golang, JavaScript / Node, Jest, Serverless, Lambda, Docker
 
 #### Full stack engineer @ Data Language
 _November 2016 - February 2017_
-Building state driven user interfaces composed of reusable and mostly stateless functional UI components.
+Built state driven user interfaces composed of reusable and mostly stateless functional UI components.
 
 Stack: Node, ES6, React, ImmutableJS, Lodash, Webpack, Enzyme
 
