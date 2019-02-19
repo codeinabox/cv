@@ -33,6 +33,19 @@ Please only contact me about contract and freelance roles based in London or all
  * Authoring semantic and standards compliant HTML and CSS
 
 ### Recent Work History (contract)
+#### Senior fullstack engineer @ Accenture
+_January 2019 - March 2019_
+
+Developed a home renovations site that allowed users to explore product options and combinations.
+
+Stack: TypeScript, React, Redux Saga, Reselect
+
+#### Senior fullstack engineer @ Accenture
+_October 2018 - November 2018_
+
+Developed room planning tool with virtual tour functionality.
+
+Stack: TypeScript, Angular, RxJS, A-Frame
 
 #### Senior software engineer @ Financial Times
 _November 2017 - September 2018_
