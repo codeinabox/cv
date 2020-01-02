@@ -33,6 +33,13 @@ Please only contact me about contract and freelance roles based in London or all
  * Authoring semantic and standards compliant HTML and CSS
 
 ### Recent Work History (contract)
+#### Senior frontend engineer @ Vuelio
+_April 2019 - November 2019_
+
+Helped the front end team deliver a React application and cultivate the following best practices: controlled atomic components, avoiding unnecessary use of component state, previewing components independently using Storybook, unit testing with Enzyme to verify component behaviour and drive the implementation, pairing with team members to share knowledge and eliminate blockers
+
+Stack: TypeScript, React, Redux Saga, Ramda, Docker, Bitbucket Pipelines, Storybook
+
 #### Senior fullstack engineer @ Accenture
 _January 2019 - March 2019_
 
