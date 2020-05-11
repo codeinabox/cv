@@ -33,6 +33,14 @@ Please only contact me about contract and freelance roles based in London or all
  * Authoring semantic and standards compliant HTML and CSS
 
 ### Recent Work History (contract)
+
+#### Senior fullstack engineer @ Atellio
+_February 2020 - May 2020_
+
+Helped a start up mature their development process with unit testing and architecture decision records whilst adding real time capabilities to their platform using WebSockets.
+
+Stack: Node, React, Redux, Socket.io, PostgreSQL, Knex, Objection
+
 #### Senior frontend engineer @ Vuelio
 _April 2019 - November 2019_
 
