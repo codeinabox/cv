@@ -3,34 +3,21 @@
 [github.com/codeinabox](https://github.com/codeinabox)
 
 ## Profile
-Highly motivated and passionate senior full-stack developer. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly, driven to do challenging work and passionate about technology outside of working hours, with a history of hack day attendance, volunteering at Code Club and contributing to Stack Overflow & open source projects.
+Highly motivated and passionate senior full-stack developer. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly.
 
 ## Availability
 Please only contact me about contract and freelance roles based in London or allowing remote work. My availability is listed at [codeinabox.com](http://www.codeinabox.com/).
 
-## Technical Skills
- * Bespoke PHP development using frameworks (Zend, BBC Forge, Silex, Symfony, CodeIgniter, Kohana, and CakePHP), and libraries (Twig, Doctrine, and Guzzle)
- * JavaScript development both client-side - vanilla JavaScript, jQuery and frameworks including AngularJS – and server-side using Node and Express
- * Test driven PHP development (TDD) using PHPUnit and Hudson for continuous integration
- * Client side and TDD and BDD using Jasmine, Should, Mocha and Supertest
- * Using build tools including Gulp, Grunt, Less or Sass to manage front-end workflows
- * Data modelling in both relational ie SQL and schema-less databases including MongoDB and Atom store
- * Document indexing and search using Apache Solr
- * Caching strategies using memcache for server side caching, and HTTP headers for output caching
- * Automated provisioning of development environments using Vagrant and Ansible
- * Deploying production applications to Amazon EC2 and platform based services including Heroku
+## Skills
+ * Versed in a diverse set of languages with strong experience using JavaScript, TypeScript, SQL, PHP and intermediate experience with Golang, Ruby, and Java
+ * On the front-end strong experience of both vanilla JS and using React and Redux particularly making use of hooks and functional components
+ * Advocate of domain driven design (DDD) in complex systems and using hexagonal architecture to separate domain logic from implementation concerns
+ * Strong believer in a test driven (TDD) approach to development where the acceptance criteria is the main driver
+ * Using pair programming, code reviews and architecture design records to enable knowledge sharing within the team
+ * Ability to take on DevOps responsibilities using Docker, managing deployments with CircleCI and BitBucket pipelines and working with AWS and Heroku managed infrastructure
+ * Data modelling using relational databases and NoSQL schema-less databases
+ * Document indexing and search using Apache Solr and Elasticsearch
  * Social media APIs including Instagram, Foursquare and Facebook's Graph API, FQL, and canvas
- * Standards compliant front end development, including WCAG 1.0 AA and WAI-ARIA
- * Source control using Git, Subversion and CVS
-
-## Key Skills
- * Objected orientated design patterns including model-view-controller (MVC) and recently behaviour driven design (DDD)
- * Working with software architects to structure code that is reusable between projects
- * Test driven development and authoring of unit tests
- * Scope analysis and drafting of functional requirements
- * Rapid prototyping using Agile based methodologies including kanban, scrum and sprints
- * A gestalt understanding of the full development pipeline
- * Authoring semantic and standards compliant HTML and CSS
 
 ### Recent Work History (contract)
 
