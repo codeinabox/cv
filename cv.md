@@ -21,6 +21,14 @@ Please only contact me about contract and freelance roles based in London or all
 
 ### Recent Work History (contract)
 
+#### Senior fullstack engineer @ Equal Experts
+
+_July 2020 - October 2020_
+
+Rapidly developed a coffee subscription service for Pret as part of their digital transformation starting with a small trial in Manchester quickly followed by a nationwide launch. In addition to the service code I played a pivotal role creating custom dashboards and monitoring tools managed using Terraform for the launch.
+
+Stack: Node, Fastify, Next, Chargebee, Braze, Terraform, Terragrunt, Google Cloud Run
+
 #### Senior fullstack engineer @ Atellio
 _February 2020 - May 2020_
 
