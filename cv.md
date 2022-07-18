@@ -5,19 +5,18 @@
 ## Profile
 Highly motivated and passionate senior full-stack developer. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly.
 
-## Availability
-Please only contact me about contract and freelance roles based in London or allowing remote work. My availability is listed at [codeinabox.com](http://www.codeinabox.com/).
+- Versed in a diverse set of languages with strong experience using JavaScript, TypeScript, SQL, PHP and intermediate experience with Golang, Ruby, and Java
+- On the front-end strong experience of both vanilla JS and using React and Redux particularly making use of hooks and functional components
+- Advocate of domain driven design (DDD) in complex systems and using hexagonal architecture to separate domain logic from implementation concerns
+- Strong believer in a test driven (TDD) approach to development where the acceptance criteria is the main driver
+- Using pair programming, code reviews and architecture design records to enable knowledge sharing within the team
+- Ability to take on DevOps responsibilities using Docker, managing deployments with CircleCI and BitBucket pipelines and working with AWS, Google Cloud and Heroku managed infrastructure
+- Infrastructure as code using tools including Ansible, Terraform and Terragrunt
+- Building custom dashboards and monitoring in Google Cloud
+- Data modelling using relational databases and NoSQL schema-less databases
+- Document indexing and search using Apache Solr and Elasticsearch
+- Social media APIs including Instagram, Foursquare and Facebook's Graph API, FQL, and canvas
 
-## Skills
- * Versed in a diverse set of languages with strong experience using JavaScript, TypeScript, SQL, PHP and intermediate experience with Golang, Ruby, and Java
- * On the front-end strong experience of both vanilla JS and using React and Redux particularly making use of hooks and functional components
- * Advocate of domain driven design (DDD) in complex systems and using hexagonal architecture to separate domain logic from implementation concerns
- * Strong believer in a test driven (TDD) approach to development where the acceptance criteria is the main driver
- * Using pair programming, code reviews and architecture design records to enable knowledge sharing within the team
- * Ability to take on DevOps responsibilities using Docker, managing deployments with CircleCI and BitBucket pipelines and working with AWS and Heroku managed infrastructure
- * Data modelling using relational databases and NoSQL schema-less databases
- * Document indexing and search using Apache Solr and Elasticsearch
- * Social media APIs including Instagram, Foursquare and Facebook's Graph API, FQL, and canvas
 
 ### Recent Work History (contract)
 
