@@ -20,7 +20,7 @@ Highly motivated and passionate senior full-stack developer. University educated
 
 ### Recent Work History (contract)
 
-#### Senior fullstack engineer @ Equal Experts
+#### Senior fullstack engineer @ Equal Experts for Pret
 
 _July 2020 - October 2020_
 
