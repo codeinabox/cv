@@ -20,6 +20,14 @@ Highly motivated and passionate senior full-stack developer. University educated
 
 ### Recent Work History (contract)
 
+#### Senior fullstack engineer @ Kin + Carta for Cazoo
+
+_Nov 2020 - June 2022_
+
+Consulted with online car retailer Cazoo as part of a team focussed on customer payments, during which I helped them both technically and shaping the team culture with a focus on pairing and fostering psychological safety. Key achievements were enabling open banking for UK customers and adding more payment methods in Europe including Sofort and SEPA bank transfers.
+
+Stack: TypeScript, Serverless, Step Functions, Event Bridge, Terraform, React
+
 #### Senior fullstack engineer @ Equal Experts for Pret
 
 _July 2020 - October 2020_
