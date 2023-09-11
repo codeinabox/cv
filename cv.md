@@ -17,8 +17,23 @@ Highly motivated and passionate senior full-stack developer. University educated
 - Document indexing and search using Apache Solr and Elasticsearch
 - Social media APIs including Instagram, Foursquare and Facebook's Graph API, FQL, and canvas
 
-
 ### Recent Work History (contract)
+
+#### Senior fullstack engineer @ Zoa
+
+_November 2022 - June 2023_
+
+Cultivated a schema driven approach to development and collaborated with the platform team to create a validation middle-ware, that enabled Zoa, a tech startup that span out of Bulb, to rapidly build a white label energy platform.
+
+Stack:  React, React Native, TypeScript, Zod, PostgreSQL, Docker, Kubernetes
+
+#### Senior fullstack engineer @ Bulb
+
+_September 2022 - November 2022_
+
+Delivered smart insights features to help customers better understand their energy usage, as part of the smart insights team.
+
+Stack: React, React Native, TypeScript, NextJS, Apollo GraphQL, PostgreSQL, Docker, Kubernetes
 
 #### Senior fullstack engineer @ Kin + Carta for Cazoo
 
