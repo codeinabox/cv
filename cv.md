@@ -3,7 +3,7 @@
 [github.com/codeinabox](https://github.com/codeinabox)
 
 ## Profile
-Highly motivated and passionate senior full-stack developer. University educated with a major in computer science I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly.
+Highly motivated and passionate senior full-stack developer. University educated with a major in computer science, I bring a structured approach to development, employing processes of best practice, object orientated design, test driven development, behaviour driven development and agile iterations. I am able to grasp new technologies and legacy systems quickly. I'm also interested in playing a pivotal role in the team culture in terms of pairing, candid retrospectives and an ongoing focus on psychological safety and team cohesion.
 
 - Versed in a diverse set of languages with strong experience using JavaScript, TypeScript, SQL, PHP and intermediate experience with Golang, Ruby, and Java
 - On the front-end strong experience of both vanilla JS and using React and Redux particularly making use of hooks and functional components
